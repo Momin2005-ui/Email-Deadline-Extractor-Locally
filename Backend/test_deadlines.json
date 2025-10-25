@@ -1,0 +1,123 @@
+[
+  {
+    "task": "Check and secure Google Account",
+    "deadline": "2025-04-03T14:15:54",
+    "details": "Someone might be using the account.",
+    "confidence": "high",
+    "source_email_id": "6",
+    "source_email_subject": "Security alert",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:53:06.343406",
+    "id": "dl_20250403195306_1423454245824"
+  },
+  {
+    "task": "Check account activity",
+    "deadline": "2025-04-03T14:15:32",
+    "details": "Link provided for immediate action.",
+    "confidence": "high",
+    "source_email_id": "4",
+    "source_email_subject": "Security alert",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:53:20.470422",
+    "id": "dl_20250403195320_1423454291776"
+  },
+  {
+    "task": "Review security activity",
+    "deadline": "2025-04-03T14:15:32",
+    "details": "Link provided for future review.",
+    "confidence": "medium",
+    "source_email_id": "4",
+    "source_email_subject": "Security alert",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:53:20.470422",
+    "id": "dl_20250403195320_1423454294144"
+  },
+  {
+    "task": "Reviewing and managing 2-Step Verification settings",
+    "deadline": "2025-04-03T14:13:03+00:00",
+    "details": "This deadline refers to the initial setting up of 2-Step Verification, but it's recommended to periodically review and update these settings.",
+    "confidence": "high",
+    "source_email_id": "3",
+    "source_email_subject": "2-Step Verification turned on",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:53:28.678218",
+    "id": "dl_20250403195328_1423454168064"
+  },
+  {
+    "task": "Adding a backup phone or getting backup codes",
+    "deadline": null,
+    "details": "These actions are not explicitly stated to have a deadline, but they should be done as soon as possible for account security.",
+    "confidence": "medium",
+    "source_email_id": "3",
+    "source_email_subject": "2-Step Verification turned on",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:53:28.678218",
+    "id": "dl_20250403195328_1423454246400"
+  },
+  {
+    "task": "Submitting the [Project Name]",
+    "deadline": "2025-04-10T17:00:00+05:30",
+    "details": "",
+    "confidence": "high",
+    "source_email_id": "2",
+    "source_email_subject": "Subject: test",
+    "source_email_from": "Mohana krishnan <mohanakrishnanv18@gmail.com>",
+    "extraction_time": "2025-04-03T19:53:33.734558",
+    "id": "dl_20250403195333_1423454294272"
+  },
+  {
+    "task": "Check if recovery phone was changed",
+    "deadline": "2025-04-03T14:09:13+00:00",
+    "details": "This deadline refers to the time when the email was sent. It is recommended to immediately verify and check for any unauthorized activity on the account.",
+    "confidence": "high",
+    "source_email_id": "1",
+    "source_email_subject": "Security alert",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:53:39.687942",
+    "id": "dl_20250403195339_1423454297600"
+  },
+  {
+    "task": "See Google Account security activity",
+    "deadline": "2025-04-03T14:15:32+00:00",
+    "details": "Check the security activity of your account at https://myaccount.google.com/notifications",
+    "confidence": "high",
+    "source_email_id": "4",
+    "source_email_subject": "Security alert",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:55:08.581052",
+    "id": "dl_20250403195508_1906064741696"
+  },
+  {
+    "task": "Review your 2SV settings",
+    "deadline": "2025-04-03T14:13:03+00:00",
+    "details": "For making changes to your 2-Step Verification settings",
+    "confidence": "high",
+    "source_email_id": "3",
+    "source_email_subject": "2-Step Verification turned on",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:55:16.266097",
+    "id": "dl_20250403195516_1906064740992"
+  },
+  {
+    "task": "Check security activity",
+    "deadline": "2025-04-03T14:13:03+00:00",
+    "details": "For seeing the security activity on your Google Account",
+    "confidence": "high",
+    "source_email_id": "3",
+    "source_email_subject": "2-Step Verification turned on",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:55:16.266097",
+    "id": "dl_20250403195516_1906064618240"
+  },
+  {
+    "task": "Investigating unauthorized change of recovery phone",
+    "deadline": "2025-04-03T14:09:13+00:00",
+    "details": "The recovery phone for your Google account was changed without your knowledge. You should check the activity on your account.",
+    "confidence": "high",
+    "source_email_id": "1",
+    "source_email_subject": "Security alert",
+    "source_email_from": "Google <no-reply@accounts.google.com>",
+    "extraction_time": "2025-04-03T19:55:27.198403",
+    "id": "dl_20250403195527_1906064741120"
+  }
+]

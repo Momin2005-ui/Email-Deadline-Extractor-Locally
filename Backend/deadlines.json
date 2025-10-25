@@ -1,0 +1,222 @@
+[
+  {
+    "task": "Submitting the AI Research Paper",
+    "deadline": "2025-04-12T12:00:00+05:30",
+    "details": "Finalize the draft and submit",
+    "confidence": "high",
+    "source_email_id": "3",
+    "source_email_subject": "AI Paper Submission",
+    "source_email_from": "Dr. Kumar <kumar@example.com>",
+    "extraction_time": "2025-04-03T20:00:00+05:30",
+    "id": "dl_20250403200000_001"
+  },
+  {
+    "task": "Team Meeting for Project X",
+    "deadline": "2025-04-08T15:30:00+05:30",
+    "details": "Discuss milestones and tasks",
+    "confidence": "medium",
+    "source_email_id": "4",
+    "source_email_subject": "Project X Meeting",
+    "source_email_from": "Ananya <ananya@example.com>",
+    "extraction_time": "2025-04-03T20:05:00+05:30",
+    "id": "dl_20250403200500_002"
+  },
+  {
+    "task": "Code Review Submission",
+    "deadline": null,
+    "details": "Review PR #45 and provide feedback",
+    "confidence": "high",
+    "source_email_id": "5",
+    "source_email_subject": "Code Review Request",
+    "source_email_from": "Ravi <ravi@example.com>",
+    "extraction_time": "2025-04-03T20:10:00+05:30",
+    "id": "dl_20250403201000_003"
+  },
+  {
+    "task": "Prepare Presentation Slides",
+    "deadline": "2025-04-15T09:00:00+05:30",
+    "details": "Slides for upcoming conference",
+    "confidence": "high",
+    "source_email_id": "6",
+    "source_email_subject": "Conference Slides",
+    "source_email_from": "Meera <meera@example.com>",
+    "extraction_time": "2025-04-03T20:15:00+05:30",
+    "id": "dl_20250403201500_004"
+  },
+  {
+    "task": "Submit Expense Report",
+    "deadline": "2025-04-07T17:00:00+05:30",
+    "details": "Include last month receipts",
+    "confidence": "medium",
+    "source_email_id": "7",
+    "source_email_subject": "Expense Submission",
+    "source_email_from": "Finance Dept <finance@example.com>",
+    "extraction_time": "2025-04-03T20:20:00+05:30",
+    "id": "dl_20250403202000_005"
+  },
+  {
+    "task": "Client Feedback Meeting",
+    "deadline": "2025-04-09T11:00:00+05:30",
+    "details": "",
+    "confidence": "medium",
+    "source_email_id": "8",
+    "source_email_subject": "Feedback Meeting",
+    "source_email_from": "Client ABC <clientabc@example.com>",
+    "extraction_time": "2025-04-03T20:25:00+05:30",
+    "id": "dl_20250403202500_006"
+  },
+  {
+    "task": "Update Project Documentation",
+    "deadline": null,
+    "details": "Add latest changes to docs",
+    "confidence": "high",
+    "source_email_id": "9",
+    "source_email_subject": "Documentation Update",
+    "source_email_from": "Team Lead <lead@example.com>",
+    "extraction_time": "2025-04-03T20:30:00+05:30",
+    "id": "dl_20250403203000_007"
+  },
+  {
+    "task": "Research Data Cleaning",
+    "deadline": "2025-04-13T18:00:00+05:30",
+    "details": "Clean and organize dataset for analysis",
+    "confidence": "high",
+    "source_email_id": "10",
+    "source_email_subject": "Data Cleaning Task",
+    "source_email_from": "Data Team <data@example.com>",
+    "extraction_time": "2025-04-03T20:35:00+05:30",
+    "id": "dl_20250403203500_008"
+  },
+  {
+    "task": "Book Flight Tickets",
+    "deadline": "2025-04-14T20:00:00+05:30",
+    "details": "Tickets for conference travel",
+    "confidence": "medium",
+    "source_email_id": "11",
+    "source_email_subject": "Flight Booking",
+    "source_email_from": "Travel Desk <travel@example.com>",
+    "extraction_time": "2025-04-03T20:40:00+05:30",
+    "id": "dl_20250403204000_009"
+  },
+  {
+    "task": "Submit Assignment 3",
+    "deadline": "2025-04-11T23:59:00+05:30",
+    "details": "",
+    "confidence": "high",
+    "source_email_id": "12",
+    "source_email_subject": "Assignment 3",
+    "source_email_from": "Professor Raj <raj@example.com>",
+    "extraction_time": "2025-04-03T20:45:00+05:30",
+    "id": "dl_20250403204500_010"
+  },
+  {
+    "task": "Organize Team Outing",
+    "deadline": null,
+    "details": "Decide location and date",
+    "confidence": "low",
+    "source_email_id": "13",
+    "source_email_subject": "Team Outing",
+    "source_email_from": "HR <hr@example.com>",
+    "extraction_time": "2025-04-03T20:50:00+05:30",
+    "id": "dl_20250403205000_011"
+  },
+  {
+    "task": "Weekly Status Report",
+    "deadline": "2025-04-08T10:00:00+05:30",
+    "details": "Send report to manager",
+    "confidence": "high",
+    "source_email_id": "14",
+    "source_email_subject": "Weekly Report",
+    "source_email_from": "Manager <manager@example.com>",
+    "extraction_time": "2025-04-03T20:55:00+05:30",
+    "id": "dl_20250403205500_012"
+  },
+  {
+    "task": "Design Mockups",
+    "deadline": "2025-04-10T16:00:00+05:30",
+    "details": "UI/UX mockups for app",
+    "confidence": "high",
+    "source_email_id": "15",
+    "source_email_subject": "Design Task",
+    "source_email_from": "Designer <designer@example.com>",
+    "extraction_time": "2025-04-03T21:00:00+05:30",
+    "id": "dl_20250403210000_013"
+  },
+  {
+    "task": "Server Maintenance",
+    "deadline": "2025-04-09T22:00:00+05:30",
+    "details": "Update security patches",
+    "confidence": "medium",
+    "source_email_id": "16",
+    "source_email_subject": "Server Update",
+    "source_email_from": "IT Team <it@example.com>",
+    "extraction_time": "2025-04-03T21:05:00+05:30",
+    "id": "dl_20250403210500_014"
+  },
+  {
+    "task": "Client Proposal Draft",
+    "deadline": null,
+    "details": "Draft proposal for new project",
+    "confidence": "medium",
+    "source_email_id": "17",
+    "source_email_subject": "Proposal Draft",
+    "source_email_from": "Sales <sales@example.com>",
+    "extraction_time": "2025-04-03T21:10:00+05:30",
+    "id": "dl_20250403211000_015"
+  },
+  {
+    "task": "Organize Workshop Materials",
+    "deadline": "2025-04-16T14:00:00+05:30",
+    "details": "Prepare handouts and slides",
+    "confidence": "high",
+    "source_email_id": "18",
+    "source_email_subject": "Workshop Prep",
+    "source_email_from": "Training Team <training@example.com>",
+    "extraction_time": "2025-04-03T21:15:00+05:30",
+    "id": "dl_20250403211500_016"
+  },
+  {
+    "task": "Submit Lab Report",
+    "deadline": "2025-04-07T13:00:00+05:30",
+    "details": "",
+    "confidence": "high",
+    "source_email_id": "19",
+    "source_email_subject": "Lab Report",
+    "source_email_from": "Lab Assistant <lab@example.com>",
+    "extraction_time": "2025-04-03T21:20:00+05:30",
+    "id": "dl_20250403212000_017"
+  },
+  {
+    "task": "Update Portfolio Website",
+    "deadline": null,
+    "details": "Add new projects and designs",
+    "confidence": "medium",
+    "source_email_id": "20",
+    "source_email_subject": "Portfolio Update",
+    "source_email_from": "Self <me@example.com>",
+    "extraction_time": "2025-04-03T21:25:00+05:30",
+    "id": "dl_20250403212500_018"
+  },
+  {
+    "task": "Submit Tax Documents",
+    "deadline": "2025-04-14T17:00:00+05:30",
+    "details": "Income tax filing",
+    "confidence": "high",
+    "source_email_id": "21",
+    "source_email_subject": "Tax Submission",
+    "source_email_from": "Finance Dept <finance@example.com>",
+    "extraction_time": "2025-04-03T21:30:00+05:30",
+    "id": "dl_20250403213000_019"
+  },
+  {
+    "task": "Brainstorm Marketing Ideas",
+    "deadline": null,
+    "details": "Generate creative campaign ideas",
+    "confidence": "low",
+    "source_email_id": "22",
+    "source_email_subject": "Marketing Brainstorm",
+    "source_email_from": "Marketing Team <marketing@example.com>",
+    "extraction_time": "2025-04-03T21:35:00+05:30",
+    "id": "dl_20250403213500_020"
+  }
+]

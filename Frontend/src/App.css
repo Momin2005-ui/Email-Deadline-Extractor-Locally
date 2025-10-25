@@ -1,0 +1,146 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 4000;
+  background: conic-gradient(
+    from 180deg,
+    rgba(32, 159, 166, 0.5) 19%,   
+    rgba(97, 58, 149, 0.8) 38%,   
+    rgba(97, 58, 149, 0.8) 65%,   
+    rgba(9, 94, 179, 0.8) 92%      
+  );
+ 
+}
+/* 
+.header2{
+  position: fixed;
+  top: 0;
+  z-index: 5001;
+  background: white;
+  height: 70px;
+} */
+
+
+.logo{
+  margin-top: 20px;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .logo {
+    width: 120px;
+    height: auto;
+  }
+}
+
+
+.Login{
+    margin-top: 35px;
+    margin-right: 20px;
+    background: white;
+    color: linear-gradient(
+  90deg,
+  #095EB3 25%,
+  #613A95 54%,
+  #D479ED 90%
+);
+    cursor: pointer;
+    border-radius: 29px;
+    width: 146px;
+    height: 45px;
+}
+
+@media screen and (max-width: 768px) {
+    .Login{
+        margin-top: 25px;
+        margin-right: 10px;
+        width: 100px;
+        height: 35px;
+    }
+
+  
+}
+
+.schedulebar {
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 73px;
+    align-items: center;
+    width: 992px;
+    display: inline-flex;
+    height: 72px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 15px;
+    transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.schedulebar:hover {
+    height: 85px;
+    cursor: pointer;
+}
+
+
+
+
+/* .schedulebar div{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+} */
+
+.button1{
+
+  border: black 1px solid;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  width: 50px;
+}
+
+.button2{
+  
+  border: black 1px solid;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  width: 50px;
+
+}
+
+.generateschedulebar{
+    background: linear-gradient(
+  90deg,
+  #095EB3 25%,
+  #613A95 54%,
+  #D479ED 90%
+);
+     width: 1220px;
+     height: fit-content;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      position: relative;
+      left: 300px;
+}
+
+.sidebar{
+    background-color: #0D91FD;
+    width: 306px;
+    height: 100vh;
+    text-align: center;
+    position: fixed;
+    
+}
+
+.loginportal{
+  width: 597px;
+  height: 398px;
+  background-color: #00FBFF;
+}
+
